@@ -4,6 +4,7 @@
         "sectionTitle": "Todays deals",
         "products":[
             {
+                "id": "0001",
                 "title": "Product 1",
                 "description": "Some small description goes here",
                 "price": 1500,
@@ -11,6 +12,7 @@
                 "img_url": "https://www.productsamples.com/wp-content/uploads/2021/10/il-box.png"
             },
             {
+                "id": "0002",
                 "title": "Product 2",
                 "description": "Some small description goes here",
                 "price": 1500,
@@ -24,12 +26,14 @@
        "sectionTitle": "Trending",
        "products":[
         {
+            "id": "0003",
             "title": "Product 3",
             "description": "Some small description goes here",
             "price": 1500,
             "category": "cetegory-1"
         },
         {
+            "id": "0004",
             "title": "Product 4",
             "description": "Some small description goes here",
             "price": 1500,
